@@ -9,7 +9,7 @@
 
 <b> Section 2- Scripts </b>
 - Part 1- Introduction to Scripting
-- Part 2- Debugginge
+- Part 2- Debugging
 
 <b> Section 3- For Loops </b>
 - Part 1- Introduction to For Loops
