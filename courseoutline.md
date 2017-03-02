@@ -8,7 +8,7 @@
 - Part 5 - Displaying Data - Saving to file
 
 <b> Section 2- Scripts </b>
--Part 1- Introduction to Scripting
+- Part 1- Introduction to Scripting
 - Part 2- Debugginge
 
 <b> Section 3- For Loops </b>
