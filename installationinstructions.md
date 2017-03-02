@@ -12,7 +12,7 @@
         <b> Staff:  24759-36418-71647-13382-89362 <br>
         Student:  18098-22076-81253-90866-03229</b>
 
-<b> If you already have an account follow these instructions instead: <b> <br>
+<b> If you already have an account follow these instructions instead: </b> <br>
 
 - While logged in, on your homepage, find My Licenses.
 - Under 'Associate with a License' click the Associate license button.
